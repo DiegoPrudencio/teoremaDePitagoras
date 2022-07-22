@@ -1,5 +1,7 @@
+
+
 # teoremaDePitagoras
-<h1 align="center">Calculadora - Teorema de Pitágoras</h1>
+<h1 align="center" >Calculadora - Teorema de Pitágoras</h1>
 
 <p align="center">Projeto desenvolvido para calcular a relação entre os lados de um triângulo retângulo (teorema de Pitágoras). Utilizando HTML5, CSS, TypeScript.</p>
 <p align="center">Projeto desenvolvido para calcular a relação entre os lados de um triângulo retângulo (teorema de Pitágoras).</p>
