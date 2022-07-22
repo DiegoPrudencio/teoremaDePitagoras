@@ -19,6 +19,10 @@ Autores do projeto: Diego Ailton Prudêncio
 	🚧  Calculadora do Teorama de Pitágoras 🚀 Finalizado
 </h4>
 
+<h1 align="center">
+  <img hrf alt="Calculadora" title="Calculadora Teorama" src="./assets/images/calculadoraTeorema.png" />
+</h1>
+
 Licenças: MIT License - Copyright (c) 2022 Diego Ailton Prudêncio
 
 
