@@ -11,9 +11,9 @@
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades](#funcionalidades)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Tecnologias utilizadas](#Tecnologias)
 * [Licença](#licença)
-* [Autor](#autor)
+* [Autor](#Autor)
 
 
 ## Título
@@ -44,9 +44,7 @@
 <h1>Autor do projeto: Diego Ailton Prudêncio</h1>
 
 
-## tecnologias-utilizadas
-
-:hammer_and_wrench: Tecnologias
+## Tecnologias Utilizadas :hammer_and_wrench:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -56,8 +54,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-## autor
-Autor
+## Autor
+
 
 | [<img src="https://avatars.githubusercontent.com/u/99906365?v=4" width=115><br><sub>Diego Ailton Prudêncio</sub>](https://github.com/DiegoPrudencio) |
 
