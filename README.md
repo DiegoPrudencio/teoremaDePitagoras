@@ -15,6 +15,10 @@ Onde os usuários podem encontrar ajuda sobre seu projeto:
 
 Autores do projeto: Diego Ailton Prudêncio
 
+<h4 align="center"> 
+	🚧  Calculadora do Teorama de Pitágoras 🚀 Finalizado
+</h4>
+
 Licenças: MIT License - Copyright (c) 2022 Diego Ailton Prudêncio
 
 
