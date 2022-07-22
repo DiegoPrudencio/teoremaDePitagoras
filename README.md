@@ -33,7 +33,8 @@
 - `Calcula a altura do triângulo`: a partir da hipotenusa, pode-se calcular a altura do triângulo
 - `Calcula a área do triângulo`: a partir da altura, pode-se calcular a área do triângulo
 
-## acesso-ao-projeto
+# acesso-ao-projeto
+Acesso ao projeto
 <h1 text-align="center">Clique na imagem para utilizar a calculadora.</h1>
 
 <h1 text-align="center">
