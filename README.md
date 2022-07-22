@@ -1,15 +1,15 @@
 
 
 # teoremaDePitagoras
-<h1 align="center" >Calculadora - Teorema de Pitágoras</h1>
+<h1 text-align="center" >Calculadora - Teorema de Pitágoras</h1>
 
-<p align="center">Projeto desenvolvido para calcular a relação entre os lados de um triângulo retângulo (teorema de Pitágoras). Utilizando HTML5, CSS, TypeScript.</p>
-<p align="center">Projeto desenvolvido para calcular a relação entre os lados de um triângulo retângulo (teorema de Pitágoras).</p>
-
+<p text-align="center">Projeto desenvolvido para calcular a relação entre os lados de um triângulo retângulo (teorema de Pitágoras). Utilizando HTML5, CSS, TypeScript.</p>
 
 
 
-Funcionalidades:
+
+
+Funcionalidades: 
 
 Como os usuários podem utilizá-lo:
 
@@ -17,13 +17,24 @@ Onde os usuários podem encontrar ajuda sobre seu projeto:
 
 Autores do projeto: Diego Ailton Prudêncio
 
-<h4 align="center"> 
+<h4 text-align="center"> 
 	🚧  Calculadora do Teorama de Pitágoras 🚀 Finalizado
 </h4>
 
-<h1 align="center">
-  <img hrf alt="Calculadora" title="Calculadora Teorama" src="./assets/images/calculadoraTeorema.png" />
+<h1 text-align="center">
+<a href="https://diegoprudencio.github.io/teoremaDePitagoras/" ><img hrf alt="Calculadora" title="Calculadora Teorama" src="./dist/assets/images/calculadoraTeorema.png" /></a>
 </h1>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 
 Licenças: MIT License - Copyright (c) 2022 Diego Ailton Prudêncio
 
