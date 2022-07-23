@@ -27,12 +27,12 @@ do Projeto
 ## Status
 do Projeto
 
-<h4> :arrow_up: Calculadora do Teorama de Pitágoras :rocket: Finalizado</h4>
+<h4> :arrow_up: Calculadora do Teorema de Pitágoras :rocket: Finalizado</h4>
 
 ## Funcionalidades
 do projeto :hammer:
 
-- `Calcula os valores dos lados do triângulo`: com informção de dois valores, podemos calcular o terceiro
+- `Calcula os valores dos lados do triângulo`: com informação de dois valores, podemos calcular o terceiro
 - `Calcula os ângulos do triângulo`: a partir dos lados, pode-se calcular os ângulos
 - `Calcula a altura do triângulo`: a partir da hipotenusa, pode-se calcular a altura do triângulo
 - `Calcula a área do triângulo`: a partir da altura, pode-se calcular a área do triângulo
