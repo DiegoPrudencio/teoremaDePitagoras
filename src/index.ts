@@ -8,6 +8,7 @@ var hipotenusa = document.getElementById("idHipotenusa") as HTMLInputElement;
 var image1 = document.getElementById("idTriangle1") as HTMLElement;
 var image2 = document.getElementById("idTriangle2") as HTMLElement;
 var image3 = document.getElementById("idTriangle3") as HTMLElement;
+var imageError = document.getElementById("idErrorGif") as HTMLElement;
 var divImage = document.getElementById("idDivImages") as HTMLDivElement;
 var divImageError = document.getElementById("idDivImageError") as HTMLDivElement;
 
@@ -40,8 +41,12 @@ var btnLimpar = document.getElementById("idBtnLimpar") as HTMLButtonElement;
  */
 btnCalcular.onclick = function () {
 
+
+
     //Condições para cálculo dos valores
     if (catetoA.value && catetoB.value && hipotenusa.value) {
+
+
 
         //Verifica se o valores 
         let verificarValor: boolean = verificarValores(Number(catetoA.value), Number(catetoB.value), Number(hipotenusa.value))
@@ -240,11 +245,15 @@ btnLimpar.onclick = function () {
 
     //Esconde o Output
     outHidden.hidden = true
+    outputErrorHidden.hidden = true
 
     //Retorna a imagem primária
+    divImage.hidden = false
+    divImageError.hidden = true
     image1.hidden = false
     image2.hidden = true
     image3.hidden = true
+
 }
 
 /*
@@ -319,6 +328,19 @@ function verificarValores(catetoA: number, catetoB: number, hipotenusa: number) 
     } else {
         return false
     }
+}
+
+//Converter valores negativos
+function converterValor(valor: number) {
+
+    if (valor < 0) {
+        valor = (valor  * (-1))
+    } 
+    if (valor = 0) {
+        valor = 1
+    }
+
+    return valor
 }
 
 //Verficar a possibilidade dos valores dos catetos

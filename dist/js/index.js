@@ -6,6 +6,7 @@ var hipotenusa = document.getElementById("idHipotenusa");
 var image1 = document.getElementById("idTriangle1");
 var image2 = document.getElementById("idTriangle2");
 var image3 = document.getElementById("idTriangle3");
+var imageError = document.getElementById("idErrorGif");
 var divImage = document.getElementById("idDivImages");
 var divImageError = document.getElementById("idDivImageError");
 var outHidden = document.getElementById("idDivResult");
@@ -195,7 +196,10 @@ btnLimpar.onclick = function () {
     hipotenusa.value = "";
     //Esconde o Output
     outHidden.hidden = true;
+    outputErrorHidden.hidden = true;
     //Retorna a imagem primária
+    divImage.hidden = false;
+    divImageError.hidden = true;
     image1.hidden = false;
     image2.hidden = true;
     image3.hidden = true;
@@ -262,6 +266,16 @@ function verificarValores(catetoA, catetoB, hipotenusa) {
     else {
         return false;
     }
+}
+//Converter valores negativos
+function converterValor(valor) {
+    if (valor < 0) {
+        valor = (valor * (-1));
+    }
+    if (valor = 0) {
+        valor = 1;
+    }
+    return valor;
 }
 //Verficar a possibilidade dos valores dos catetos
 function verificarCatetos(catetoA, catetoB, hipotenusa) {
