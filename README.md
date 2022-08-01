@@ -1,7 +1,11 @@
 
 ## Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/DiegoPrudencio/teoremaDePitagoras?color=yellow&style=for-the-badge)](https://opensource.org/licenses/MIT)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ## Índice 
 
@@ -53,7 +57,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [VScode](https://code.visualstudio.com)
 - [HTML5]
-- [CSS]
+- [CSS3]
 - [TypeScript](https://www.typescriptlang.org/)
 
 
